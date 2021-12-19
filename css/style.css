@@ -1,0 +1,12 @@
+
+
+ .carousel-control-prev-icon, .carousel-control-next-icon {background-color: red;}
+ .carousel-control-prev-icon:hover, .carousel-control-next-icon:hover {background-color: blue;} 
+
+ #discover {
+ 	height: 50vh;
+ }
+
+ .discover-container {
+     height: 100%
+ }
